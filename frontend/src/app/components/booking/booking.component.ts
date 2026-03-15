@@ -26,7 +26,7 @@ import { ConfirmationComponent } from '../confirmation/confirmation.component';
     <div class="flex flex-col min-h-screen">
       <header class="bg-primary text-primary-foreground p-8 text-center shadow-md">
         <h1 class="text-3xl font-bold mb-2">BarberBook</h1>
-        <p class="text-lg opacity-90">Reserva tu turno con tu barbero favorito</p>
+        <p class="text-lg opacity-90">Reserva tu corte de pelo en segundos</p>
       </header>
 
       <main class="flex-1 max-w-2xl mx-auto w-full p-6">
